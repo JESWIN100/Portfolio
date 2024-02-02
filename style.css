@@ -31,6 +31,9 @@ img{
 .bg-base{
     background-color: #033f47;
 }
+.fixed-top{
+    border-right: 3px solid;
+}
 .full-height{
     min-height: 100vh;
     height: 100%;
@@ -61,8 +64,9 @@ transition: all 0.5s;
   align-items: center;
   justify-content: center;
   font-size: 32px;
-  background-color: #5c672ff7;
+  background-color: #629e8a;
     color: #033f47;
+    
 }
 /* .navbar{
     background-color:#033f47 ;
@@ -163,9 +167,7 @@ color: #ececec;
     height:44px;
 }
 
-.social-icons{
 
-}
 .social-icons a svg{
     width: 40px;
     height: 30px;
